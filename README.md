@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:           </h3>
-<h3>Register Number/Staff Id:          </h3>
+<h3>Name: ASIN VARDHINI R         </h3>
+<h3>Register Number: 212222100007          </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -272,9 +272,11 @@ def main():
     g.play()
 
 if __name__ == "__main__":
+
     main()
-    ```
+    ```'
     ## OUTPUT:
+    
     <img width="212" alt="image" src="https://github.com/user-attachments/assets/78c0e765-70c3-4ae9-8f83-7584a8662897">
     
 
