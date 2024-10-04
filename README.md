@@ -268,10 +268,13 @@ class Game:
                 self.player_turn = 'X'
 
 def main():
-    g = Game()
-    g.play()
 
-```
+    g = Game()
+    
+    g.play()
+    
+
+
 
 
     ## OUTPUT:
