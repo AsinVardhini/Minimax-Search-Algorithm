@@ -273,10 +273,13 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
 ```
+
     ## OUTPUT:
     
-    <img width="212" alt="image" src="https://github.com/user-attachments/assets/78c0e765-70c3-4ae9-8f83-7584a8662897">
+    <img width="212" alt="image" src="https://github.com/user-attachments/assets/b135e350-65ce-4979-b268-2af2d01a7906">
+
     
 
 <h2>Result:</h2>
