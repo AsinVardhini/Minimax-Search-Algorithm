@@ -268,22 +268,16 @@ class Game:
                 self.player_turn = 'X'
 
 def main():
-
     g = Game()
-    
     g.play()
-    ```
 
+if __name__ == "__main__":
+    main()
+```
 
+## Output:
+![image](https://github.com/user-attachments/assets/8d80150c-3e74-4828-8468-196ed16bcded)
 
-
-
-    ## OUTPUT:
-    
-   ![image](https://github.com/user-attachments/assets/06bd4ab8-ab55-4588-bf1b-d34e3c313ce4)
-
-
-    
 
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
