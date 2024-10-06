@@ -281,7 +281,8 @@ def main():
 
     ## OUTPUT:
     
-    <img width="212" alt="image" src="https://github.com/user-attachments/assets/b135e350-65ce-4979-b268-2af2d01a7906">
+   ![image](https://github.com/user-attachments/assets/06bd4ab8-ab55-4588-bf1b-d34e3c313ce4)
+
 
     
 
