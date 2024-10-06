@@ -111,7 +111,7 @@ end
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
 
-
+<hr>
 ## Program:
 ```
 import time
@@ -276,7 +276,6 @@ def main():
 
 
 
-<hr>
 
 
     ## OUTPUT:
